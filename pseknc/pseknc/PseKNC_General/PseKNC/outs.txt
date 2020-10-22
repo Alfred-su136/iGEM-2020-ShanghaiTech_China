@@ -1,0 +1,17 @@
+>Example1
+AGTCAGTTATGACATGAC
+----------------------------------
+Properties: ['MW-Daltons', 'Nucleosome']
+GEARY: [0.70999999999999996, 1.1799999999999999]
+======================================
+>Example2
+AGTCAGTTATGACATGAC
+----------------------------------
+Properties: ['MW-Daltons', 'Nucleosome']
+GEARY: [0.70999999999999996, 1.1799999999999999]
+======================================
+>Example3
+AG
+----------------------------------
+Properties: ['MW-Daltons', 'Nucleosome']
+GEARY: 
